@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Biblioteca Componente Probando si se renderiza el componente 1`] = `
+<div>
+  <categorias-stub></categorias-stub>
+  <libro-stub></libro-stub>
+</div>
+`;
